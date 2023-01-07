@@ -1,4 +1,4 @@
-- 👋 Hi, I’m [Samarth(https://littlesam.netlify.app/)]
+- 👋 Hi, I’m [Samarth](https://littlesam.netlify.app/)
 - 👀 I’m interested in Finance, ML, Web Development
 - 🌱 I’m currently learning TS, React, Django, Node.
 - 📫 Feel free to text "Hi" in any of my socials.
