@@ -20,7 +20,7 @@
 <h1 align="center">📊 GitHub Stats</h1>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rasbutass&show_icons=true&locale=en&layout=compact" alt="rasbutass" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rasbutass&show_icons=true&locale=en" alt="rasbutass" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rasbutass&show_icons=true&locale=en" alt="rasbutass" /></p> -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rasbutass&" alt="rasbutass" /></p>
 
